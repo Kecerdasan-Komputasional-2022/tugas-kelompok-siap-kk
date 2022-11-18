@@ -1,6 +1,5 @@
 # tugas-kelompok-siap-kk
-tugas-kelompok-siap-kk created by GitHub Classroom<br>
-<br>
+
 Kelas : Kecerdasan Komputasional F<br>
 Kelompok : SiapKK<br>
 Anggota Kelompok :
