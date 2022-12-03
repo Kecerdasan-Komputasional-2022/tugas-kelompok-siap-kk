@@ -1,0 +1,271 @@
+danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,title,first_artists,all_artists
+0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,242096,4,Leave The Door Open,Bruno Mars,"['Bruno Mars', 'Anderson .Paak', 'Silk Sonic']"
+0.764,0.32,11,-7.209,1,0.0546,0.837,0.0,0.0822,0.575,91.019,189486,4,Memories,Maroon 5,['Maroon 5']
+0.806,0.546,9,-6.637,1,0.0575,0.3,0.0,0.102,0.874,147.986,212867,4,Intentions (feat. Quavo),Justin Bieber,"['Justin Bieber', 'Quavo']"
+0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,228482,3,Stuck with U (with Justin Bieber),Ariana Grande,"['Ariana Grande', 'Justin Bieber']"
+0.606,0.799,9,-4.452,1,0.0261,0.0128,0.0,0.15,0.638,103.014,232907,4,Make You Mine,PUBLIC,['PUBLIC']
+0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,159382,4,Falling,Trevor Daniel,['Trevor Daniel']
+0.383,0.637,3,-6.993,1,0.0703,0.0722,0.0,0.368,0.0827,177.913,260773,4,Bad Liar,Imagine Dragons,['Imagine Dragons']
+0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,0.0784,145.867,217867,4,Talking to the Moon,Bruno Mars,['Bruno Mars']
+0.654,0.434,8,-11.163,1,0.0665,0.837,0.0,0.216,0.223,109.069,171743,4,double take,dhruv,['dhruv']
+0.556,0.661,6,-5.052,0,0.204,0.3,0.0,0.101,0.668,168.56,178148,4,good 4 u,Olivia Rodrigo,['Olivia Rodrigo']
+0.598,0.444,2,-8.683,0,0.0327,0.68,1.94e-05,0.142,0.286,113.919,183090,4,"It's Raining, It's Pouring",Anson Seabra,['Anson Seabra']
+0.358,0.557,10,-7.398,1,0.059,0.695,0.0,0.0902,0.494,85.043,211467,4,Say You Won't Let Go,James Arthur,['James Arthur']
+0.369,0.581,2,-5.299,1,0.03,0.12,5.84e-05,0.23,0.185,136.133,283360,4,Cinta Dalam Hati,Ungu,['Ungu']
+0.426,0.366,10,-6.514,1,0.0312,0.765,0.0,0.117,0.386,179.736,172320,4,"10,000 Hours (with Justin Bieber) - Piano",Dan + Shay,"['Dan + Shay', 'Justin Bieber']"
+0.395,0.456,7,-5.358,1,0.0456,0.432,0.0,0.108,0.0608,103.85,181644,4,Everything (feat. John Legend),Ella Mai,"['Ella Mai', 'John Legend']"
+0.609,0.444,7,-9.129,1,0.106,0.603,6.86e-06,0.104,0.166,118.402,228707,3,If I Ain't Got You,Alicia Keys,['Alicia Keys']
+0.706,0.0874,7,-14.444,1,0.0382,0.989,0.000176,0.125,0.43,124.206,244416,4,Rindu Setengah Mati,Nidza Afham,['Nidza Afham']
+0.492,0.667,6,-6.198,0,0.0383,0.151,0.0013,0.17,0.706,84.922,205782,4,Makna Cinta,Rizky Febian,['Rizky Febian']
+0.493,0.723,7,-4.992,1,0.054,0.316,0.0,0.148,0.349,142.072,227684,4,Kau Sakiti,Amir Masdi,['Amir Masdi']
+0.544,0.518,8,-5.604,0,0.0314,0.641,0.0,0.145,0.541,117.986,206441,4,Penat,Andi Bernadee,['Andi Bernadee']
+0.457,0.515,7,-6.302,0,0.0278,0.727,0.0,0.187,0.155,135.895,275015,4,Terlanjur Cinta,Cakra Khan,"['Cakra Khan', 'Hael Husaini']"
+0.512,0.478,9,-5.096,1,0.0316,0.532,0.0,0.1,0.252,146.778,260737,4,It Will Rain,Francis Greg,['Francis Greg']
+0.439,0.61,9,-7.236,1,0.116,0.593,1.07e-05,0.341,0.172,181.088,215508,4,deja vu,Olivia Rodrigo,['Olivia Rodrigo']
+0.584,0.408,1,-7.356,0,0.0461,0.476,0.0,0.18,0.333,115.129,246735,4,Fire On Fire,Sam Smith,['Sam Smith']
+0.628,0.639,8,-5.46,1,0.0435,0.00162,0.0,0.354,0.493,108.045,185773,4,Maniac,Conan Gray,['Conan Gray']
+0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,197732,4,Dancing With Your Ghost,Sasha Alex Sloan,['Sasha Alex Sloan']
+0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,3,Heather,Conan Gray,['Conan Gray']
+0.422,0.302,11,-9.214,1,0.0372,0.629,7.83e-05,0.104,0.123,114.089,248827,4,Runaway,AURORA,['AURORA']
+0.672,0.625,7,-5.068,0,0.0468,0.0774,0.0,0.0934,0.423,120.038,208729,4,Hurts So Good,Astrid S,['Astrid S']
+0.453,0.35,9,-11.639,0,0.0425,0.827,0.00122,0.144,0.279,72.017,185147,3,Arcade,Duncan Laurence,['Duncan Laurence']
+0.418,0.42,0,-6.444,1,0.0414,0.588,6.39e-05,0.11,0.184,84.094,172724,4,Stay With Me,Sam Smith,['Sam Smith']
+0.281,0.139,4,-8.97,1,0.0421,0.926,0.0,0.099,0.0467,63.473,247696,4,The One That Got Away,Brielle Von Hugel,['Brielle Von Hugel']
+0.311,0.607,1,-6.578,1,0.11,0.0174,0.0,0.131,0.286,188.7,168086,4,On The Ground,ROSÉ,['ROSÉ']
+0.647,0.377,6,-6.003,1,0.0375,0.594,0.0,0.0768,0.653,79.936,207164,4,Gone,ROSÉ,['ROSÉ']
+0.678,0.355,10,-7.757,0,0.0627,0.759,7.06e-05,0.114,0.438,119.772,260776,3,Like I Want You,Giveon,['Giveon']
+0.443,0.459,0,-8.955,1,0.074,0.546,1.05e-06,0.307,0.565,87.064,198371,5,Heartbreak Anniversary,Giveon,['Giveon']
+0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,4,Levitating (feat. DaBaby),Dua Lipa,"['Dua Lipa', 'DaBaby']"
+0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,229227,4,traitor,Olivia Rodrigo,['Olivia Rodrigo']
+0.658,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,170813,4,Hold On,Justin Bieber,['Justin Bieber']
+0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,173711,4,34+35,Ariana Grande,['Ariana Grande']
+0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,242013,4,drivers license,Olivia Rodrigo,['Olivia Rodrigo']
+0.813,0.415,0,-5.926,1,0.0349,0.777,0.0,0.131,0.667,91.921,170345,4,At My Worst,Pink Sweat$,['Pink Sweat$']
+0.617,0.451,7,-9.323,1,0.0584,0.627,0.0,0.267,0.487,127.923,159375,4,Weak,Larissa Lambert,['Larissa Lambert']
+0.298,0.295,2,-8.789,1,0.0318,0.869,0.0,0.111,0.199,171.361,277694,4,Grey,Why Don't We,"[""Why Don't We""]"
+0.541,0.153,6,-10.654,1,0.0303,0.882,1.66e-06,0.16,0.359,139.644,176972,4,Love Is Gone - Acoustic,SLANDER,"['SLANDER', 'Dylan Matthew']"
+0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,169266,4,you broke me first,Tate McRae,['Tate McRae']
+0.606,0.9,0,-4.504,1,0.119,0.0101,0.0,0.075,0.233,133.963,216504,4,Fallin’ (Adrenaline),Why Don't We,"[""Why Don't We""]"
+0.744,0.619,0,-9.805,1,0.039,0.598,0.00372,0.231,0.641,112.997,188387,4,Sofia,Clairo,['Clairo']
+0.614,0.647,0,-4.681,0,0.0524,0.0687,0.0,0.104,0.368,163.862,184665,4,What Am I,Why Don't We,"[""Why Don't We""]"
+0.523,0.291,7,-10.705,1,0.0398,0.651,0.0,0.179,0.227,133.282,256812,4,Tetap Untukmu,Anneth,"['Anneth', 'MJN Squad']"
+0.593,0.392,11,-7.926,1,0.0317,0.362,0.0,0.104,0.329,132.966,215822,4,Pernah,Azmi,['Azmi']
+0.408,0.609,7,-6.173,1,0.0306,0.126,0.0,0.119,0.247,158.032,223121,4,Sampai Bila,Misha Omar,['Misha Omar']
+0.365,0.52,4,-7.197,0,0.0325,0.419,0.0,0.298,0.0851,132.363,250909,4,"Tanpa Rela - From ""Cinta Sekali Lagi"" Soundtrack",Misha Omar,['Misha Omar']
+0.376,0.419,8,-6.389,0,0.0344,0.197,2.59e-06,0.253,0.185,126.138,237320,4,Entah Apa,Sarah Suhairi,"['Sarah Suhairi', 'Aepul Roza']"
+0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,211360,4,In My Blood,Shawn Mendes,['Shawn Mendes']
+0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,201000,4,Too Good At Goodbyes,Sam Smith,['Sam Smith']
+0.677,0.485,5,-5.795,1,0.0361,0.529,2.04e-05,0.0766,0.493,82.001,239317,4,I'm Not The Only One,Sam Smith,['Sam Smith']
+0.481,0.285,0,-10.848,1,0.0424,0.9,0.0,0.123,0.316,130.029,210160,4,Purpose,Justin Bieber,['Justin Bieber']
+0.376,0.595,3,-5.936,1,0.0496,0.303,0.0,0.095,0.265,144.361,290900,4,When We Were Young,Adele,['Adele']
+0.591,0.28,4,-5.494,1,0.0283,0.889,0.0,0.124,0.348,141.916,271800,4,All I Ask,Adele,['Adele']
+0.627,0.592,6,-5.977,1,0.314,0.126,0.0,0.111,0.462,167.882,197847,4,Dear No One,Tori Kelly,['Tori Kelly']
+0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,220734,4,Just the Way You Are,Bruno Mars,['Bruno Mars']
+0.566,0.407,0,-10.293,1,0.0914,0.766,0.000185,0.111,0.156,119.781,247555,4,Say It First,Sam Smith,['Sam Smith']
+0.454,0.151,9,-13.444,1,0.06,0.777,0.0,0.0792,0.362,90.187,202685,4,I Like Me Better - Recorded at Spotify Studios NYC,Lauv,['Lauv']
+0.451,0.507,11,-6.24,1,0.0316,0.473,0.0,0.108,0.564,165.76,187027,4,A Little Too Much,Shawn Mendes,['Shawn Mendes']
+0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,258987,4,Photograph,Ed Sheeran,['Ed Sheeran']
+0.311,0.485,6,-5.726,0,0.0365,0.701,0.0,0.0726,0.225,77.355,208827,4,Train Wreck,James Arthur,['James Arthur']
+0.3,0.347,6,-9.542,1,0.0364,0.79,2.14e-06,0.111,0.164,169.361,211653,3,Falling Like The Stars,James Arthur,['James Arthur']
+0.64,0.455,0,-5.942,1,0.0247,0.0743,0.0,0.0694,0.333,89.948,217773,4,Imagination,Shawn Mendes,['Shawn Mendes']
+0.527,0.61,6,-6.793,1,0.0405,0.084,0.0,0.0572,0.294,102.012,233400,4,Naked,James Arthur,['James Arthur']
+0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,0.454,116.959,233720,3,Dandelions,Ruth B.,['Ruth B.']
+0.67,0.743,10,-4.993,1,0.0393,0.237,0.0,0.465,0.571,125.944,218293,4,Rewrite The Stars (with James Arthur & Anne-Marie),James Arthur,"['James Arthur', 'Anne-Marie']"
+0.375,0.461,9,-6.202,1,0.0279,0.627,0.0,0.386,0.233,75.217,223270,4,Selfish,Madison Beer,['Madison Beer']
+0.605,0.377,11,-6.213,1,0.0443,0.733,0.0,0.0808,0.519,73.877,194853,4,This City,Sam Fischer,['Sam Fischer']
+0.546,0.515,1,-5.379,1,0.0563,0.22,0.0,0.0611,0.34,164.792,213307,4,Empty Space,James Arthur,['James Arthur']
+0.646,0.355,1,-7.119,1,0.0263,0.873,0.0,0.115,0.364,84.988,210863,4,Forever,Lewis Capaldi,['Lewis Capaldi']
+0.696,0.543,11,-6.164,1,0.0489,0.308,0.0,0.0939,0.479,107.969,246880,4,Can I Be Him,James Arthur,['James Arthur']
+0.641,0.537,0,-5.452,0,0.0282,0.0875,9.05e-06,0.115,0.0681,112.864,196188,4,"Don't Give Up On Me - (From ""Five Feet Apart"")",Andy Grammer,['Andy Grammer']
+0.528,0.687,8,-6.268,0,0.0334,0.157,0.0,0.0997,0.312,155.953,212066,4,Armor,Landon Austin,['Landon Austin']
+0.514,0.727,0,-6.131,1,0.0492,0.126,0.0,0.0978,0.37,147.917,200400,4,They Don't Know About Us,One Direction,['One Direction']
+0.376,0.695,0,-4.782,0,0.0933,0.135,0.0,0.11,0.302,169.533,209440,4,Impossible,James Arthur,['James Arthur']
+0.526,0.818,3,-5.952,1,0.0358,0.0587,0.0,0.333,0.896,171.96,185098,4,Somebody To You,The Vamps,['The Vamps']
+0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,230227,4,Scars To Your Beautiful,Alessia Cara,['Alessia Cara']
+0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,269560,4,All of Me,John Legend,['John Legend']
+0.439,0.489,8,-6.286,1,0.0368,0.132,0.000643,0.114,0.253,143.808,250707,4,human,Christina Perri,['Christina Perri']
+0.556,0.529,2,-4.464,1,0.025,0.4,0.0,0.268,0.308,89.887,213543,4,Uncover,Zara Larsson,['Zara Larsson']
+0.555,0.662,11,-4.952,0,0.0827,0.125,0.0,0.111,0.356,148.128,208733,4,Mercy,Shawn Mendes,['Shawn Mendes']
+0.594,0.497,2,-5.26,1,0.0303,0.0343,0.0,0.162,0.101,101.668,237248,4,Amnesia,5 Seconds of Summer,['5 Seconds of Summer']
+0.556,0.319,9,-8.251,1,0.0281,0.893,0.0,0.0996,0.294,135.187,285240,4,Someone Like You,Adele,['Adele']
+0.551,0.537,11,-7.595,1,0.034,0.705,0.0,0.0802,0.493,126.421,196493,4,Be Alright,Dean Lewis,['Dean Lewis']
+0.522,0.128,4,-18.717,1,0.0357,0.894,0.026,0.0941,0.124,109.986,187932,4,Can We Kiss Forever?,Kina,"['Kina', 'Adriana Proenza']"
+0.684,0.619,10,-7.005,1,0.0386,0.0716,0.0,0.122,0.284,125.046,217440,4,Rewrite The Stars,Zac Efron,"['Zac Efron', 'Zendaya']"
+0.433,0.307,0,-8.796,1,0.0327,0.65,0.0,0.0635,0.378,178.114,176947,4,Fall for You (Acoustic),Secondhand Serenade,['Secondhand Serenade']
+0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,242947,4,I'm Yours,Jason Mraz,['Jason Mraz']
+0.625,0.414,0,-8.7,1,0.0369,0.294,0.0,0.151,0.669,130.088,189613,4,Lucky,Jason Mraz,"['Jason Mraz', 'Colbie Caillat']"
+0.637,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.012,220733,4,Just The Way You Are,Bruno Mars,['Bruno Mars']
+0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,232800,4,The Reason,Hoobastank,['Hoobastank']
+0.657,0.739,2,-4.081,1,0.274,0.141,0.0,0.178,0.543,181.994,202221,4,"Sit Still, Look Pretty",Daya,['Daya']
+0.575,0.714,6,-5.247,1,0.0596,0.395,0.0,0.115,0.32,144.982,262231,4,Best Friend,Rex Orange County,['Rex Orange County']
+0.799,0.539,1,-6.351,1,0.0421,0.199,1.66e-05,0.165,0.394,136.948,202547,4,Young Dumb & Broke,Khalid,['Khalid']
+0.472,0.772,5,-5.928,1,0.0316,0.00658,5.65e-05,0.132,0.6,139.993,393480,4,Dear God,Avenged Sevenfold,['Avenged Sevenfold']
+0.694,0.651,7,-5.448,1,0.0486,0.197,0.00726,0.0708,0.623,160.081,231293,4,Bunga,Bondan Prakoso,"['Bondan Prakoso', 'Fade2Black']"
+0.611,0.834,7,-5.165,1,0.0458,0.0337,5.91e-05,0.0841,0.478,130.029,292293,4,Kau Curi Lagi (feat. Prisa),J-Rocks,"['J-Rocks', 'Prisa']"
+0.629,0.254,0,-9.635,1,0.0687,0.869,0.0,0.0904,0.457,96.189,220907,4,I Will Fly,Ten2Five,['Ten2Five']
+0.642,0.781,7,-6.285,1,0.0285,0.387,0.000291,0.179,0.604,128.979,252613,4,Hapus Aku,Nidji,['Nidji']
+0.222,0.704,5,-7.2,1,0.0411,0.000172,0.0129,0.278,0.588,189.986,291840,4,Konservatif,The Adams,['The Adams']
+0.595,0.819,2,-5.293,1,0.0271,0.375,6.33e-06,0.0762,0.423,97.987,334440,4,Kukatakan Dengan Indah,Peterpan,['Peterpan']
+0.69,0.651,9,-4.63,1,0.0319,0.533,3.92e-06,0.116,0.614,114.988,214627,4,Tak Bisakah,Peterpan,['Peterpan']
+0.519,0.634,4,-6.61,1,0.0398,0.37,0.0,0.302,0.273,159.869,257927,4,Manusia Bodoh,Ada Band,['Ada Band']
+0.496,0.797,2,-6.089,1,0.0375,0.0433,1.46e-05,0.155,0.376,175.974,296240,4,Masih - Sahabatku Kekasihku,Ada Band,['Ada Band']
+0.382,0.678,7,-3.622,1,0.0339,0.379,3.16e-06,0.186,0.29,134.961,271670,3,Tapi Bukan Aku,Kerispatih,['Kerispatih']
+0.819,0.72,11,-4.175,0,0.0312,0.102,0.0,0.167,0.951,112.016,214176,4,Ular Berbisa,Hello,['Hello']
+0.715,0.902,4,-5.363,1,0.0554,0.0893,1.31e-06,0.272,0.766,128.001,209493,4,Lelaki Buaya Darat,Ratu,['Ratu']
+0.29,0.48,5,-6.583,1,0.0296,0.116,3.03e-06,0.626,0.382,112.62,229235,4,Your Guardian Angel,The Red Jumpsuit Apparatus,['The Red Jumpsuit Apparatus']
+0.387,0.72,2,-5.365,1,0.0304,0.109,1.33e-06,0.0918,0.325,148.063,263384,4,Cinta Melulu,Efek Rumah Kaca,['Efek Rumah Kaca']
+0.291,0.974,6,-2.997,0,0.171,0.0177,5.44e-06,0.886,0.348,134.724,278600,4,Before I Forget,Slipknot,['Slipknot']
+0.492,0.542,7,-6.024,1,0.0286,0.643,0.000994,0.133,0.247,121.876,346293,4,"Tentang Aku,Kau dan Dia",Kangen Band,['Kangen Band']
+0.606,0.459,3,-6.463,1,0.0327,0.344,0.000106,0.0456,0.321,120.031,247000,4,Kenangan Terindah,SAMSONS,['SAMSONS']
+0.608,0.722,2,-5.658,1,0.0382,0.00699,4.24e-06,0.118,0.326,104.977,240280,4,Musnah,Andra & The Backbone,['Andra & The Backbone']
+0.422,0.305,7,-5.959,1,0.0276,0.524,0.0,0.12,0.146,131.656,316009,4,Pelangi Dimatamu,Jamrud,['Jamrud']
+0.281,0.207,2,-13.734,1,0.0396,0.963,0.0117,0.058,0.149,71.632,293320,4,Kasih Tak Sampai,Padi,['Padi']
+0.582,0.742,0,-6.52,1,0.0517,0.16,0.0008,0.184,0.471,135.04,273670,4,Menanti Sebuah Jawaban,Padi,['Padi']
+0.451,0.51,0,-4.727,1,0.0266,0.0126,0.0,0.271,0.309,145.944,243707,4,Cinta Ini Membunuhku,D’MASIV,['D’MASIV']
+0.607,0.471,2,-7.211,1,0.029,0.0941,1.65e-06,0.0994,0.315,139.955,306213,4,Akhirnya Ku Menemukanmu,NaFF,['NaFF']
+0.501,0.76,0,-6.095,1,0.0295,0.00135,0.000458,0.0854,0.476,94.03,216520,4,Everybody's Changing,Keane,['Keane']
+0.804,0.832,10,-4.723,0,0.0347,0.0148,0.0,0.107,0.9,111.023,165947,4,I Just Wanna Live,Good Charlotte,['Good Charlotte']
+0.543,0.912,7,-10.71,1,0.0601,0.00162,2.1e-06,0.0565,0.836,103.731,256733,4,Two Princes,Spin Doctors,['Spin Doctors']
+0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0,212440,4,Supermassive Black Hole,Muse,['Muse']
+0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98,285653,4,Wake Me up When September Ends,Green Day,['Green Day']
+0.468,0.876,10,-4.841,1,0.0692,0.00578,0.00625,0.035,0.13,135.062,247373,4,From Yesterday,Thirty Seconds To Mars,['Thirty Seconds To Mars']
+0.528,0.929,11,-5.282,0,0.0488,0.0779,0.0,0.365,0.679,95.054,200320,4,Welcoming the Sophomore,Pee Wee Gaskins,['Pee Wee Gaskins']
+0.583,0.829,1,-4.603,1,0.134,0.00864,0.0,0.0426,0.575,174.028,275987,4,Umbrella,Rihanna,"['Rihanna', 'JAY-Z']"
+0.714,0.868,5,-4.596,0,0.0363,0.0551,0.0,0.0987,0.78,95.05,206200,4,This Love,Maroon 5,['Maroon 5']
+0.423,0.714,11,-8.295,1,0.045,0.00113,6.28e-06,0.0855,0.593,110.017,227250,4,I Miss You,blink-182,['blink-182']
+0.405,0.91,9,-5.234,1,0.128,0.000499,0.0,0.0739,0.641,196.444,178267,4,Fat Lip,Sum 41,['Sum 41']
+0.675,0.885,1,-4.432,0,0.0436,0.217,0.0,0.086,0.768,97.03,216667,4,"Hey, Soul Sister",Train,['Train']
+0.703,0.444,11,-9.331,1,0.0417,0.559,0.0,0.0973,0.712,150.96,242947,4,I'm Yours,Jason Mraz,['Jason Mraz']
+0.757,0.892,6,-5.321,1,0.124,0.178,4.19e-05,0.0719,0.936,127.014,255947,4,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Teriyaki Boyz,['Teriyaki Boyz']
+0.538,0.981,1,-2.688,0,0.14,0.00662,0.0,0.219,0.711,101.414,255467,4,B.Y.O.B.,System Of A Down,['System Of A Down']
+0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600,4,Pumped Up Kicks,Foster The People,['Foster The People']
+0.624,0.572,5,-7.531,0,0.0352,0.322,0.0,0.314,0.57,90.067,235493,4,Lonely,Akon,['Akon']
+0.772,0.648,9,-6.222,1,0.0612,0.161,0.0,0.269,0.741,129.966,225560,4,Beautiful Girls - Radio Disney Version,Sean Kingston,['Sean Kingston']
+0.502,0.912,1,-4.556,1,0.0564,2.55e-05,0.000173,0.106,0.72,116.761,301920,4,Smells Like Teen Spirit,Nirvana,['Nirvana']
+0.312,0.946,4,-3.209,0,0.107,0.00749,2.93e-06,0.288,0.297,189.892,235893,4,Bring Me To Life,Evanescence,['Evanescence']
+0.526,0.749,3,-6.964,1,0.0283,0.023,1.76e-06,0.0692,0.421,99.982,208680,4,Kiss Me,Sixpence None The Richer,['Sixpence None The Richer']
+0.607,0.82,11,-7.754,1,0.0597,0.0541,6.8e-05,0.269,0.768,126.988,207507,4,Breathless,The Corrs,['The Corrs']
+0.644,0.599,9,-7.941,1,0.0291,0.0445,0.0,0.286,0.948,111.829,193893,4,Lovefool - Radio Edit,The Cardigans,['The Cardigans']
+0.559,0.845,11,-3.871,1,0.0379,0.222,0.0,0.164,0.304,94.915,237493,4,A Thousand Miles,Vanessa Carlton,['Vanessa Carlton']
+0.967,0.583,7,-5.562,0,0.0789,0.0584,0.0,0.0519,0.964,117.0,242733,4,SexyBack (feat. Timbaland),Justin Timberlake,"['Justin Timberlake', 'Timbaland']"
+0.94,0.743,5,-5.166,0,0.0475,0.317,0.0,0.0909,0.932,118.988,212360,4,Smack That,Akon,"['Akon', 'Eminem']"
+0.289,0.796,0,-4.22,1,0.0494,0.00837,2.61e-05,0.202,0.33,169.835,238680,4,I Don't Love You,My Chemical Romance,['My Chemical Romance']
+0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114,228347,4,Fireflies,Owl City,['Owl City']
+0.711,0.928,11,-4.162,0,0.0527,0.0239,0.000278,0.133,0.745,127.047,195280,4,Mr. Saxobeat - Radio Edit,Alexandra Stan,['Alexandra Stan']
+0.44,0.976,10,-3.17,1,0.141,0.00177,3.39e-06,0.16,0.412,150.005,226707,4,Love Drunk,Boys Like Girls,['Boys Like Girls']
+0.628,0.668,7,-6.915,1,0.0257,0.0196,0.000102,0.0769,0.833,74.994,224165,4,Munajat Cinta,The Rock,['The Rock']
+0.352,0.912,7,-4.253,1,0.0725,0.00197,0.0,0.193,0.351,166.795,220147,4,"Check Yes, Juliet",We The Kings,['We The Kings']
+0.545,0.932,7,-2.189,0,0.0399,0.000665,0.0,0.127,0.464,92.956,192000,4,Face Down,The Red Jumpsuit Apparatus,['The Red Jumpsuit Apparatus']
+0.458,0.845,2,-4.384,0,0.0422,0.000948,1.99e-06,0.359,0.175,119.994,238053,4,You're Not Alone,Saosin,['Saosin']
+0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,185587,4,Numb,Linkin Park,['Linkin Park']
+0.433,0.307,0,-8.796,1,0.0327,0.65,0.0,0.0635,0.378,178.114,176947,4,Fall for You (Acoustic),Secondhand Serenade,['Secondhand Serenade']
+0.887,0.514,7,-5.941,1,0.109,0.143,1.85e-05,0.0405,0.836,95.012,248000,4,Gadisku,Ello,['Ello']
+0.54,0.387,7,-8.066,1,0.0377,0.881,0.000391,0.184,0.193,119.886,244831,4,Terserah,Glenn Fredly,['Glenn Fredly']
+0.39,0.702,2,-5.825,1,0.036,0.00883,0.00207,0.342,0.195,125.686,238240,4,One Last Breath,Creed,['Creed']
+0.515,0.43,7,-9.935,1,0.0369,0.0102,0.000141,0.129,0.104,91.841,238640,4,Creep,Radiohead,['Radiohead']
+0.449,0.456,8,-5.739,0,0.0288,0.0537,0.00614,0.126,0.134,139.795,286041,4,Bersama Bintang,Drive,['Drive']
+0.699,0.694,9,-5.455,1,0.0303,0.153,0.0,0.0755,0.96,112.038,255884,4,Semakin Ku Kejar Semakin Kau Jauh - Sksj,Five Minutes,['Five Minutes']
+0.623,0.875,7,-3.441,1,0.0318,0.00031,8.16e-06,0.179,0.82,105.961,205373,4,Beraksi,Kotak,['Kotak']
+0.47,0.666,9,-5.735,1,0.0478,0.489,5.07e-06,0.0947,0.467,199.889,241450,4,Mantan Kekasih,Lyla,['Lyla']
+0.609,0.642,2,-5.495,1,0.0242,0.277,1.22e-06,0.0939,0.287,95.967,236707,4,Suara (Ku Berharap),Hijau Daun,['Hijau Daun']
+0.559,0.45,4,-5.455,1,0.0335,0.119,3e-05,0.0728,0.267,126.993,271000,4,Kesepian,Dygta,['Dygta']
+0.469,0.507,2,-5.397,1,0.0267,0.166,0.0,0.0981,0.118,140.07,250667,4,(BAM) Betapa Aku Mencintaimu,Vagetoz,['Vagetoz']
+0.546,0.279,7,-11.526,1,0.0306,0.983,0.334,0.13,0.194,120.019,238933,4,Hanya Ingin Kau Tahu,Repvblik,['Repvblik']
+0.648,0.707,0,-6.022,1,0.0299,0.274,5.06e-06,0.0997,0.898,118.175,196227,4,P.U.S.P.A.,ST12,['ST12']
+0.292,0.732,6,-5.096,0,0.0346,0.0618,0.0,0.112,0.764,64.094,188880,3,Keterlaluan,The Potters,['The Potters']
+0.378,0.278,7,-11.926,1,0.0339,0.434,2.08e-06,0.171,0.176,130.011,274040,4,Hingga Akhir Waktu,NINEBALL,['NINEBALL']
+0.588,0.731,4,-4.897,1,0.0302,0.0723,0.0,0.204,0.59,140.016,220540,4,Aishiteru - Version 1,Zivilia,['Zivilia']
+0.507,0.899,10,-5.27,0,0.143,0.00244,0.00311,0.223,0.474,87.745,278173,4,Jengah,Pas Band,['Pas Band']
+0.711,0.691,0,-5.973,1,0.0278,0.0621,0.0106,0.0849,0.701,119.973,255280,4,Bukan Permainan,Gita Gutawa,['Gita Gutawa']
+0.711,0.247,9,-12.662,1,0.0284,0.324,7.88e-05,0.137,0.491,104.983,203640,4,Pernah Muda,Bunga Citra Lestari,['Bunga Citra Lestari']
+0.876,0.522,0,-7.6,1,0.0325,0.209,0.000147,0.23,0.946,125.032,128688,4,Lupa-Lupa Ingat,Kuburan,['Kuburan']
+0.697,0.872,1,-5.035,0,0.0347,0.0065,0.00257,0.293,0.448,109.972,250013,4,Sumpah I Love You,Mahadewi,['Mahadewi']
+0.752,0.448,4,-7.628,1,0.0286,0.32,0.00233,0.0855,0.309,112.815,298907,4,Aku Baik-Baik Saja,Ratu,['Ratu']
+0.557,0.687,5,-4.964,1,0.0281,0.211,0.00265,0.142,0.305,100.01,283480,4,Kekasih Yang Tak Dianggap,Pinkan Mambo,['Pinkan Mambo']
+0.554,0.343,0,-10.394,1,0.0286,0.689,1.48e-05,0.14,0.242,140.018,247853,4,Firasat,Marcell,['Marcell']
+0.329,0.915,4,-6.333,1,0.0829,0.00049,0.0,0.364,0.518,140.732,265747,4,Kuta Rock City,Superman Is Dead,['Superman Is Dead']
+0.547,0.39,7,-5.946,1,0.0271,0.697,1.46e-05,0.0618,0.477,128.728,247253,4,Bertahan,Rama,['Rama']
+0.477,0.44,9,-4.997,1,0.0302,0.0745,1.08e-06,0.121,0.349,117.964,284947,4,Kekasih Gelapku,Ungu,['Ungu']
+0.706,0.73,7,-4.547,1,0.0282,0.304,0.0,0.273,0.519,105.012,224293,4,Ingatlah Hari Ini,Project Pop,['Project Pop']
+0.677,0.926,11,-3.765,0,0.0294,0.0276,0.0,0.184,0.759,117.056,251506,4,Cari Jodoh,Wali,['Wali']
+0.575,0.746,4,-9.043,1,0.0506,0.0181,0.0,0.362,0.5,132.0,317650,4,Diary Depresiku,Last Child,['Last Child']
+0.339,0.508,0,-7.445,0,0.0277,0.0141,1.55e-05,0.0838,0.533,181.379,225507,3,Gantung,Melly Goeslaw,['Melly Goeslaw']
+0.566,0.704,7,-4.599,1,0.0288,0.424,0.0,0.105,0.51,146.957,239133,4,Slalu Mengalah,Seventeen,['Seventeen']
+0.468,0.514,11,-8.197,0,0.0359,0.0484,0.0,0.112,0.241,149.943,223613,4,Rahasia Hati,Element,['Element']
+0.416,0.226,7,-10.934,1,0.0338,0.82,0.000272,0.143,0.178,138.852,299160,4,Selamanya Cinta,D'Cinnamons,"[""D'Cinnamons""]"
+0.673,0.883,7,-5.181,1,0.0294,0.0574,0.00656,0.335,0.9,132.465,223933,4,Salam Rindu,Tipe-X,['Tipe-X']
+0.594,0.937,0,-3.717,1,0.0663,0.000935,2.26e-05,0.145,0.724,109.151,222600,4,Sakit Hati,Tipe-X,['Tipe-X']
+0.37,0.514,2,-5.479,1,0.0302,0.0409,0.00115,0.283,0.17,126.978,295947,4,Yang Terlupakan,Iwan Fals,['Iwan Fals']
+0.522,0.358,9,-9.214,1,0.03,0.847,0.146,0.107,0.105,137.66,282000,4,Ijinkan Aku Menyayangimu,Iwan Fals,['Iwan Fals']
+0.658,0.539,8,-12.051,1,0.026,0.156,0.0106,0.106,0.536,125.041,288707,4,Dan...,Sheila On 7,['Sheila On 7']
+0.425,0.889,10,-5.7,1,0.0802,0.065,0.0,0.345,0.644,162.596,241293,4,Seberapa Pantas,Sheila On 7,['Sheila On 7']
+0.713,0.689,5,-10.264,0,0.0409,0.361,0.148,0.275,0.686,109.996,309581,4,Dibatas Waktu,Morad,"['Morad', 'Oslo Ibrahim', 'Sandhy Sondoro', 'SNYW Big Band']"
+0.786,0.428,0,-9.24,1,0.112,0.563,0.928,0.117,0.867,137.955,133913,4,Irene,Jordy Waelauruw,"['Jordy Waelauruw', 'Marthin Siahaan', 'Nael Larumunde', 'Clement Noya']"
+0.434,0.354,1,-9.666,1,0.0344,0.87,0.00519,0.132,0.345,67.726,203825,4,moonlight,dilasarah,['dilasarah']
+0.192,0.971,1,-4.097,0,0.107,0.0233,0.844,0.293,0.685,186.393,270000,5,Propulsion,Batavia Collective,['Batavia Collective']
+0.666,0.801,1,-7.58,0,0.151,0.128,5.42e-05,0.646,0.63,149.972,217726,4,Move on Up,Barry Likumahuwa,"['Barry Likumahuwa', 'The Rhythm Service', 'Basboi']"
+0.647,0.597,0,-9.625,0,0.028,0.478,0.854,0.102,0.297,104.029,298315,4,Wait for the Dawn,Echa Soemantri,['Echa Soemantri']
+0.401,0.349,5,-14.746,0,0.0359,0.792,0.882,0.129,0.297,128.818,344295,4,Remembering,Joey Alexander,['Joey Alexander']
+0.803,0.672,0,-9.508,1,0.0371,0.0193,0.00218,0.229,0.511,115.006,325565,4,Cinta Dalam Diam,Andezzz,"['Andezzz', 'Nadine Emmanuella']"
+0.686,0.802,4,-6.799,0,0.0286,0.602,0.934,0.088,0.815,112.99,289500,4,Dahaga,Erwin Gutawa,['Erwin Gutawa']
+0.59,0.613,9,-8.607,1,0.0615,0.0382,2.48e-06,0.295,0.32,98.052,242314,4,Euphoria,Littlefingers,"['Littlefingers', 'Imelda Lizal']"
+0.77,0.629,2,-8.051,1,0.168,0.299,1.35e-05,0.183,0.781,90.047,210667,4,I Am The Bass,Bondan Prakoso,"['Bondan Prakoso', 'Barry Likumahuwa']"
+0.673,0.379,10,-11.53,1,0.0348,0.573,0.329,0.0882,0.541,135.952,316512,3,Makna Nostalgia,Vira Talisa,['Vira Talisa']
+0.733,0.569,10,-10.677,1,0.0645,0.108,0.101,0.117,0.948,93.017,206935,4,A Little Girl,Koko Wijanarko,"['Koko Wijanarko', 'Ya-Jung Chuang']"
+0.505,0.42,6,-11.805,1,0.0386,0.653,0.319,0.127,0.392,122.141,433404,3,Winter Blues,Joey Alexander,['Joey Alexander']
+0.533,0.754,8,-4.386,1,0.0351,0.109,0.0,0.103,0.599,149.682,177659,4,Don't You Worry,Reggie Pryor,"['Reggie Pryor', 'Jeremy Monteiro']"
+0.73,0.559,0,-8.311,1,0.0289,0.202,0.000894,0.151,0.541,108.035,200578,4,Simfoni Terindah,R.I.M.A,"['R.I.M.A', 'Barry Likumahuwa', 'Ivan Saba', 'Ryan V', 'DJ Faith']"
+0.705,0.174,6,-12.141,1,0.0409,0.858,0.00311,0.091,0.287,63.956,160088,4,Makan Teman,Tompi,['Tompi']
+0.487,0.747,7,-6.951,1,0.047,0.263,8.29e-05,0.0935,0.243,84.932,213022,4,Sekuntum Rindu,Bella Fawzi,"['Bella Fawzi', 'Chiki Fawzi', 'Dewa Budjana']"
+0.463,0.887,1,-6.769,0,0.0602,0.00132,0.147,0.195,0.859,170.003,230000,4,Destiny,Sequoia Projects,['Sequoia Projects']
+0.86,0.664,7,-7.198,1,0.0689,0.0949,0.00653,0.0299,0.835,106.981,266496,4,Funjam,Echa Soemantri,['Echa Soemantri']
+0.679,0.857,2,-6.783,1,0.0497,0.0903,0.000574,0.0802,0.555,106.004,227830,4,Would You Be Mine?,Dua Empat,"['Dua Empat', 'Marini Nainggolan', 'Keita Ogawa']"
+0.44,0.508,0,-7.111,1,0.0347,0.131,0.0,0.203,0.408,116.654,207000,4,Christy,January Christy,['January Christy']
+0.597,0.455,0,-11.045,1,0.0763,0.51,0.0181,0.138,0.558,102.2,157857,4,Tune for Lovely Souls,Anastasya Poetri,"['Anastasya Poetri', 'Musiversal']"
+0.739,0.776,4,-4.625,1,0.0491,0.616,0.000241,0.218,0.765,104.047,151388,4,My Galaxies,Thesar,"['Thesar', 'Sondang Silalahi']"
+0.697,0.372,0,-8.877,1,0.0385,0.632,5.96e-05,0.127,0.405,139.885,246857,4,Sahabat Yang Di Sana,Attar & Rahel,"['Attar & Rahel', 'Nesia Ardi']"
+0.339,0.729,11,-9.673,0,0.058,0.0526,0.9,0.122,0.213,92.563,487734,4,Freedom,Daniel Dyonisius,"['Daniel Dyonisius', 'Dewa Budjana']"
+0.472,0.79,4,-6.175,1,0.0321,0.00961,0.00197,0.135,0.256,110.042,258545,4,Rona Imaji,Shinjoko,"['Shinjoko', 'Putra Timur']"
+0.548,0.911,0,-6.815,1,0.0485,0.0144,0.0645,0.419,0.902,85.988,259000,4,Delight,Sequoia Projects,['Sequoia Projects']
+0.673,0.826,7,-4.73,1,0.0488,0.0464,0.000474,0.358,0.782,98.056,259681,4,Nusaniwe,Barry Likumahuwa,"['Barry Likumahuwa', 'Teddy Adhitya', 'Renewal']"
+0.447,0.773,5,-7.718,0,0.0529,0.0747,0.805,0.0378,0.365,123.932,229390,4,Social Abstract,Kenny Gabriel,"['Kenny Gabriel', 'Felix Buliks', 'Ankadiov Subran', 'Denis Junio']"
+0.68,0.297,0,-16.84,1,0.0529,0.995,0.958,0.117,0.814,125.101,189120,4,Best Friend,Koko Wijanarko,['Koko Wijanarko']
+0.368,0.709,5,-8.591,1,0.0298,0.0761,0.669,0.119,0.51,125.311,411453,3,Swarna Jingga,Dewa Budjana,"['Dewa Budjana', 'Dave Weckl', 'Jimmy Johnson', 'Mateus Asato']"
+0.468,0.305,4,-13.587,1,0.0318,0.946,0.886,0.0992,0.111,105.204,400392,4,Miles to Go,Daniel Dyonisius,['Daniel Dyonisius']
+0.453,0.579,7,-7.503,1,0.0287,0.808,0.906,0.0868,0.274,85.968,303300,4,Gratitude,Tohpati,['Tohpati']
+0.414,0.204,4,-12.373,1,0.0428,0.869,0.00602,0.203,0.249,177.598,234000,3,Seumpama,Kenneth Mariw,['Kenneth Mariw']
+0.577,0.254,2,-10.926,0,0.0269,0.796,2.15e-05,0.105,0.157,65.576,172700,3,Hidup,January Christy,['January Christy']
+0.442,0.713,6,-10.878,0,0.156,0.145,0.0,0.149,0.32,117.556,209845,3,Affirmation - Studio Version Radio Edit,Batavia Collective,"['Batavia Collective', 'Kamga']"
+0.5,0.353,4,-11.254,1,0.0382,0.751,0.0,0.252,0.627,199.827,215581,3,Overthinking,Adrian Setiawan,['Adrian Setiawan']
+0.411,0.639,4,-7.648,1,0.0265,0.623,0.889,0.0883,0.37,129.277,338019,4,Sampai Di Sini,Gerald Situmorang,['Gerald Situmorang']
+0.691,0.474,5,-9.87,0,0.0479,0.894,0.00434,0.134,0.665,96.064,285408,4,Perjumpaan Kita,Candra Darusman,"['Candra Darusman', 'Dian Sastrowardoyo']"
+0.765,0.784,1,-6.077,1,0.0394,0.00512,0.235,0.076,0.408,115.059,340300,4,Sugar Crush,newbloodfusion,['newbloodfusion']
+0.745,0.707,4,-10.223,0,0.0526,0.259,0.847,0.288,0.673,120.003,380121,4,Ode To Benny Liku,Barry Likumahuwa,['Barry Likumahuwa']
+0.621,0.406,7,-7.873,1,0.0766,0.437,0.0,0.142,0.747,178.106,160500,4,"1, 2, 3, 4, 5 (That's How It Goes!)",Ardhito Pramono,['Ardhito Pramono']
+0.819,0.268,0,-12.671,1,0.0354,0.246,0.0102,0.0851,0.42,104.004,221000,4,Terjebak Rasa,Dony Koeswinarno,"['Dony Koeswinarno', 'Tompi']"
+0.755,0.233,10,-12.99,1,0.0387,0.93,0.000579,0.0882,0.425,109.831,197701,4,Waktuku Hampa,Ardhito Pramono,"['Ardhito Pramono', 'Detik Waktu Quartet']"
+0.611,0.448,7,-9.672,1,0.0263,0.47,0.0,0.306,0.471,94.958,195645,4,Berdansa Sejenak,djalto,['djalto']
+0.576,0.228,7,-15.411,1,0.0282,0.881,0.00705,0.128,0.142,98.955,199000,3,Di Pusat Jakarta,Michael Aldi,['Michael Aldi']
+0.773,0.317,10,-11.253,1,0.0763,0.672,0.0,0.524,0.505,114.843,318159,4,Happy Guy,Adikara Fardy,"['Adikara Fardy', 'Matter Mos']"
+0.764,0.533,5,-7.21,1,0.154,0.628,0.701,0.117,0.769,92.985,169677,4,Out For Myself,Rhesa Siregar,['Rhesa Siregar']
+0.718,0.673,2,-7.127,1,0.259,0.602,0.00161,0.447,0.852,157.933,206627,4,Nurlela,Trio Lestari,['Trio Lestari']
+0.51,0.313,7,-11.773,0,0.0337,0.865,8.74e-05,0.138,0.243,95.71,205227,3,fake optics,Ardhito Pramono,['Ardhito Pramono']
+0.674,0.477,2,-10.962,1,0.0343,0.627,0.00661,0.083,0.389,137.888,236286,4,Pengungkapan Hatimu Feat. Andien,Candra Darusman,['Candra Darusman']
+0.572,0.115,7,-14.486,1,0.0381,0.474,0.0,0.116,0.0778,72.029,226503,4,I'm Not the Only One,Nenei,['Nenei']
+0.541,0.143,1,-14.563,0,0.0344,0.723,0.0165,0.114,0.205,114.644,203976,3,Talking to Myself,Adrian Setiawan,['Adrian Setiawan']
+0.668,0.438,9,-7.962,1,0.0296,0.55,1.27e-05,0.633,0.695,95.044,203211,4,Melepas Bujang,Fadhilonn,['Fadhilonn']
+0.67,0.377,8,-12.534,1,0.0304,0.154,0.0472,0.331,0.407,124.904,197760,4,Autumn,Erikson Jayanto,['Erikson Jayanto']
+0.786,0.614,0,-6.897,0,0.0406,0.0401,0.0,0.158,0.749,110.027,266182,4,Rejuvenate,Mahesa Santoso,"['Mahesa Santoso', 'Rafi Daeng']"
+0.785,0.325,0,-12.766,0,0.0307,0.572,2.63e-05,0.11,0.354,104.975,200000,4,Don't Start Now,Nenei,"['Nenei', 'Stella Starlight Trio']"
+0.905,0.282,9,-8.17,0,0.0415,0.871,9.96e-06,0.106,0.516,125.032,275328,4,Begini Cinta,Kaloka,['Kaloka']
+0.584,0.581,2,-9.55,1,0.0326,0.594,0.0561,0.245,0.496,106.147,276368,4,Kejar Waktu,Marini Nainggolan,['Marini Nainggolan']
+0.737,0.606,10,-8.779,1,0.0554,0.259,0.487,0.168,0.511,98.024,235102,4,Stay,Saxx in the City,['Saxx in the City']
+0.68,0.399,5,-14.919,0,0.085,0.903,0.742,0.0907,0.567,89.997,154667,4,Late Motion,Rhesa Siregar,['Rhesa Siregar']
+0.714,0.312,2,-9.871,1,0.0298,0.655,0.0,0.0815,0.589,115.038,232005,4,Feeling,Adrian Setiawan,"['Adrian Setiawan', 'Diona Dewiriana']"
+0.706,0.206,7,-10.428,0,0.0429,0.866,0.0,0.154,0.577,121.195,177025,4,Selangkah Lagi,Abdul & The Coffee Theory,['Abdul & The Coffee Theory']
+0.654,0.387,9,-10.773,1,0.0592,0.203,3.01e-05,0.0487,0.492,117.996,192000,4,Ah Pusing!,Orkes Kedai Sarinah,"['Orkes Kedai Sarinah', 'Gearda Dewantara', 'Nash Ersandy', 'Rama Cristna', 'La Rayhan', 'Fadli tri Cahyadi']"
+0.678,0.531,0,-10.92,1,0.0384,0.393,0.0016,0.125,0.574,149.393,216265,4,bitterlove,Ardhito Pramono,['Ardhito Pramono']
+0.711,0.527,5,-7.483,1,0.0329,0.689,0.000137,0.201,0.52,91.115,224835,4,Afterthought,Anastasya Poetri,['Anastasya Poetri']
+0.472,0.545,10,-9.439,1,0.0434,0.243,0.805,0.0625,0.717,103.155,469579,4,Would You Be Mine,Kevin Yosua,"['Kevin Yosua', 'Sri Hanuraga', 'Elfa Zulham', 'Alex Sipiagin']"
+0.481,0.628,0,-12.938,1,0.0491,0.583,0.284,0.169,0.734,113.22,189934,5,Melawan Takdir,Hezky Jo,"['Hezky Jo', 'Azizah Hanum']"
+0.569,0.327,0,-11.007,1,0.0541,0.944,0.0012,0.107,0.678,93.809,276267,4,Piccadilly,Dua Empat,"['Dua Empat', 'Marini Nainggolan']"
